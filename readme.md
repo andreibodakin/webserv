@@ -39,3 +39,7 @@ https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3
 
 ## Team
 
+Andrei Bodakin - klavada
+Evgeny Severin - zdawnsta
+Anna Ignatenkova - pshagwel
+
